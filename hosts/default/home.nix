@@ -14,6 +14,7 @@
   home.stateVersion = "23.05";
 
   home.packages = with pkgs; [
+  	font-awesome
    	nerd-fonts.fantasque-sans-mono
 	starship
   ];
